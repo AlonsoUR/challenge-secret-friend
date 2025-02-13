@@ -1,6 +1,6 @@
 # 📌 Secret Friend Challenge
-
-![Project Banner](https://www.canva.com/design/DAGe9mxuhWw/iSS38hzNFfgAbVSviEZ0ag/view?utm_content=DAGe9mxuhWw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hebb5d8e8d6)  
+ 
+<img src="https://imgur.com/95wyVYS.jpg" width="250">
 *A challenge project to apply basic JavaScript code logic to a simple secret friend chooser page*
 
 ---
@@ -30,16 +30,20 @@ double click on the index.HTML file
 
 
 1.Input a name in the empty text box
-![Input Name](https://imgur.com/ovKkcgc)
+
+![Input Name](https://imgur.com/ovKkcgc.jpg)
 
 2. Click on the "Añadir" Button
-![Add name](https://imgur.com/ZzFzmPn)
+3. 
+![Add name](https://imgur.com/ZzFzmPn.jpg)
 
-3. Repeat for all the names you want to add
-![Add name](https://imgur.com/THarAyV)
+4. Repeat for all the names you want to add
+ 
+![Add name](https://imgur.com/THarAyV.jpg)
 
-4.Click on the "Sortear Amigo" Button to get the secret friend
-![Add name](https://imgur.com/36FJa3u)
+5.Click on the "Sortear Amigo" Button to get the secret friend
+
+![Add name](https://imgur.com/36FJa3u.jpg)
 
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
