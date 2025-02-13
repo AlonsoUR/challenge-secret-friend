@@ -19,7 +19,7 @@ function addFriend() {
     else{
         friendsList.push(inputText);
         
-        console.log(friendsList);
+        //console.log(friendsList);
         showFriendsList();
     }
 }
